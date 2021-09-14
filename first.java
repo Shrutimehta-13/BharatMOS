@@ -4,5 +4,7 @@ class A
 {
    System.out.println("Hello");
    c = a + b;
+   a++;
+   b--;
 }
 }
